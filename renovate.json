@@ -3,5 +3,8 @@
 "matchPackageNames": ["xmldoc", "common-tags"],
   "groupName": "immortal-grp"
 }],
-"lockFileMaintenance": { "enabled": true }
+"lockFileMaintenance": { 
+"enabled": true,
+  "schedule": ['at any time']
+ }
 }
